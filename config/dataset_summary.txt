@@ -1,0 +1,14 @@
+Dataset Summary
+------------------------
+Total images: 44
+Training images: 34
+Validation images: 10
+
+Classes and Counts:
+- Class 0 (Monster_Woodface): 114 instances
+- Class 1 (Monster_Stoneface): 89 instances
+- Class 2 (Monster_Standardstem): 45 instances
+- Class 3 (loot_Woodface): 16 instances
+- Class 4 (loot_Stoneface): 1 instances
+- Class 5 (loot_Standardstem): 0 instances
+- Class 6 (money_coin99): 34 instances

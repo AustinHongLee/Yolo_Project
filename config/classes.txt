@@ -1,0 +1,7 @@
+Monster_Woodface
+Monster_Stoneface
+Monster_Standardstem
+loot_Woodface
+loot_Stoneface
+loot_Standardstem
+money_coin99

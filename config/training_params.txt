@@ -1,0 +1,5 @@
+Training Command
+------------------------
+執行以下命令來啟動訓練：
+
+python c:\Users\a0976\Desktop\Project_Pratice_yolo1\yolov5\train.py --img 640 --batch 16 --epochs 100 --data c:\Users\a0976\Desktop\Project_Pratice_yolo1\config\yolov5_config.yaml --weights yolov5s.pt --name yolo_training_2 --verbose

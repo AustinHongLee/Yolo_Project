@@ -1,0 +1,13 @@
+重要項目與說明
+必要項目
+raw_images：包含所有的原始圖像，作為模型訓練的基礎。
+annotations：標註文件，用來指導模型學習目標物的類別和位置。
+training_data：整理後的訓練數據集合，包括圖像和標註文件。
+validation_data：整理後的驗證數據集合，包括圖像和標註文件。
+model_outputs：儲存訓練完成的模型文件，用於測試或部署。
+config：配置資料夾，包含類別名稱、模型配置文件，確保模型訓練過程的一致性。
+非必要項目
+reviewed_annotations：檢查無誤的標註文件，方便備份，避免因標註錯誤導致的訓練問題。
+augmented_data：包含增強後的數據集，用於提升模型對多樣性資料的適應能力。
+dataset_summary.txt：數據集摘要報告，有助於了解每個類別的數據量及分佈情況。
+requirements.txt：記錄所有需要的 Python 套件，便於其他人快速安裝相同的環境。

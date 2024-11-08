@@ -1,0 +1,16 @@
+# YOLOv5 °t¸m¤å¥ó
+
+path: c:/Users/a0976/Desktop/Project_Pratice_yolo1
+train: training_data
+val: validation_data
+
+nc: 7
+
+names:
+  - Monster_Woodface
+  - Monster_Stoneface
+  - Monster_Standardstem
+  - loot_Woodface
+  - loot_Stoneface
+  - loot_Standardstem
+  - money_coin99
